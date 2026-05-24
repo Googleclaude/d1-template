@@ -1,0 +1,5 @@
+# Local-only secrets for `wrangler dev`. Copy to `.dev.vars` and fill in values.
+# `.dev.vars` is gitignored. Production secrets go in `wrangler secret put ...`.
+# Add entries as KEY=value (one per line).
+
+# EXAMPLE_SECRET=changeme
